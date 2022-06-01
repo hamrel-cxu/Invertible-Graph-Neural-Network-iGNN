@@ -17,7 +17,7 @@
 - Please see this [Jupyter notebook](https://github.com/hamrel-cxu/Invertible-Graph-Neural-Network-iGNN/blob/main/real_data_graph.ipynb) regarding real-data experiments.
 
 ## Detailed Documentation
-- Note, detailed documentation and complete code will be released upon publication. The current paper is under review by NeurIPS 2022
+- Note, detailed documentation and complete code will be released upon publication. The current paper is under review by IEEE Journal on Selected Areas in Information Theory—Special Issue on Deep Learning Methods for Inverse Problems.
 <!-- - **Required Dependency:** 
   - Basic modules: `numpy, pandas, sklearn, scipy, matplotlib, seaborn, etc.`.
   - Additional modules: `torch` for training fully-connected networks, `torch_geometric` for building graph neural network models, and `networkx` for visualizing graph structures.
