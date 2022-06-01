@@ -1,20 +1,10 @@
-# SVI NN training
-> Implementation and experiments based on the paper "[Training neural networks using monotone variational inequality](https://arxiv.org/abs/2202.08876)".
-> 
+# Invertible Graph Residual Network iGNN
+> Implementation and experiments based on the paper "Invertible Neural Network for Graph Prediction".
+
 > Please direct all implementation-related inquiries to Chen Xu @ cxu310@gatech.edu.
 
 > Citation:
 ```
-@misc{xu2022training,
-      title={Training neural networks using monotone variational inequality}, 
-      author={Chen Xu and Xiuyuan Cheng and Yao Xie},
-      year={2022},
-      eprint={2202.08876},
-      archivePrefix={arXiv},
-      primaryClass={stat.ML}
-}
-
-
 
 ```
 ## Table of Contents
@@ -23,7 +13,8 @@
 
 
 ## Demo
-- Please see this [Jupyter notebook](https://github.com/hamrel-cxu/SVI-NN-training/blob/main/real_data_OGB.ipynb) for applying our `SVI` technique on one of the large-scale graph prediction task from the [Open Graph Benchmark](https://ogb.stanford.edu/). 
+- Please see this [Jupyter notebook] regarding simulated results.
+- Please see this [Jupyter notebook] regarding real-data experiments.
 
 ## Detailed Documentation
 - Note, detailed documentation and complete code will be released upon publication. The current paper is under review by NeurIPS 2022
