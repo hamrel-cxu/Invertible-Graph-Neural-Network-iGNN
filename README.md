@@ -1,5 +1,5 @@
 # Invertible Graph Neural Network iGNN
-> Implementation and experiments based on the paper "Invertible Neural Network for Graph Prediction".
+> Implementation and experiments based on the paper "Invertible Neural Network for Graph Prediction". The current paper is under review by IEEE Journal on Selected Areas in Information Theory—Special Issue on Deep Learning Methods for Inverse Problems. 
 
 > Please direct all implementation-related inquiries to Chen Xu @ cxu310@gatech.edu.
 
@@ -7,24 +7,12 @@
 ```
 
 ```
-## Table of Contents
-* [Demo](#demo)
-* [Detailed Documentation](#detailed-documentation)
+<!-- ## Table of Contents
+* [Full results](#full-results)
+ -->
+## Full results
+- Please see [simulation.ipynb](https://github.com/hamrel-cxu/Invertible-Graph-Neural-Network-iGNN/blob/main/simulation.ipynb) regarding simulated results.
+- Please see [real_data.ipynb](https://github.com/hamrel-cxu/Invertible-Graph-Neural-Network-iGNN/blob/main/real_data.ipynb) regarding real-data experiments.
+- The `.gif` below visualizes how iGNN transports each part of the two moon data (i.e., $X|Y$) to its corresponding ($H|Y$). The top row plots the Wasserstein-2 penalty at each block (over 40 blocks), where larger values indicate more drastic amount of transportation by the block.
 
-
-## Demo
-- Please see this [Jupyter notebook](https://github.com/hamrel-cxu/Invertible-Graph-Neural-Network-iGNN/blob/main/simulation_no_or_with_graph_GNNvsFC.ipynb) regarding simulated results.
-- Please see this [Jupyter notebook](https://github.com/hamrel-cxu/Invertible-Graph-Neural-Network-iGNN/blob/main/real_data_graph.ipynb) regarding real-data experiments.
-
-## Detailed Documentation
-- Note, detailed documentation and complete code will be released upon publication. The current paper is under review by IEEE Journal on Selected Areas in Information Theory—Special Issue on Deep Learning Methods for Inverse Problems.
-<!-- - **Required Dependency:** 
-  - Basic modules: `numpy, pandas, sklearn, scipy, matplotlib, seaborn, etc.`.
-  - Additional modules: `torch` for training fully-connected networks, `torch_geometric` for building graph neural network models, and `networkx` for visualizing graph structures.
-- **General Info and Tests:** This work reproduces all experiments in [Training neural networks using monotone variational inequality](https://arxiv.org/abs/2202.08876) (Xu et al. 2022). Note that all except the `utils_gnn_VI.py` files are best executed interactively (e.g., via [Hydrogen](https://atom.io/packages/hydrogen)). In particular, 
-  - [simulation_FCNN.py](https://github.com/hamrel-cxu/SVI-NN-training/blob/main/simulation_FCNN.py) contains simulated experiments using fully-connected networks, which appears in Section 5.3.1, 5.3.2 and Appendix B.1, B.2.
-  - [simulation_GNN.py](https://github.com/hamrel-cxu/SVI-NN-training/blob/main/simulation_GNN.py) contains simulated experiments using graph neural networks, which appears in Section 5.3.3 and Appendix B.2, B.4.
-  - [real_data.py](https://github.com/hamrel-cxu/SVI-NN-training/blob/main/real_data.py) contains real-data experiments using graph neural networks, which appears in Section 5.4 and Appendix B.3.
-  - [utils_gnn_VI.py](https://github.com/hamrel-cxu/SVI-NN-training/blob/main/utils_gnn_VI.py) contains all the helper functions. In particular, the function [`train_revised_all_layer`](https://github.com/hamrel-cxu/SVI-NN-training/blob/main/utils_gnn_VI.py#L229) embeds the **SVI** algorithm in training all neural networks examined in this paper -->
-
-
+![Alt Text](https://github.com/hamrel-cxu/Invertible-Graph-Neural-Network-iGNN/blob/main/Two-moon-illustration.gif)
