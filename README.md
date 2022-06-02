@@ -13,8 +13,8 @@
 
 
 ## Demo
-- Please see this [Jupyter notebook](https://github.com/hamrel-cxu/Invertible-Graph-Neural-Network-iGNN/blob/main/simulation_no_or_with_graph_GNNvsFC.ipynb) regarding simulated results.
-- Please see this [Jupyter notebook](https://github.com/hamrel-cxu/Invertible-Graph-Neural-Network-iGNN/blob/main/real_data_graph.ipynb) regarding real-data experiments.
+- Please see [simulation.ipynb](https://github.com/hamrel-cxu/Invertible-Graph-Neural-Network-iGNN/blob/main/simulation.ipynb) regarding simulated results.
+- Please see this [real_data.ipynb](https://github.com/hamrel-cxu/Invertible-Graph-Neural-Network-iGNN/blob/main/real_data.ipynb) regarding real-data experiments.
 
 ## Detailed Documentation
 - Note, detailed documentation and complete code will be released upon publication. The current paper is under review by IEEE Journal on Selected Areas in Information Theory—Special Issue on Deep Learning Methods for Inverse Problems.
