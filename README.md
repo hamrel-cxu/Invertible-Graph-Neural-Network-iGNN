@@ -1,4 +1,4 @@
-# Invertible Graph Residual Network iGNN
+# Invertible Graph Neural Network iGNN
 > Implementation and experiments based on the paper "Invertible Neural Network for Graph Prediction".
 
 > Please direct all implementation-related inquiries to Chen Xu @ cxu310@gatech.edu.
