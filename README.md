@@ -20,4 +20,4 @@
  -->
 Two-moon Non-graph          |  3-node convex on graph
 :-------------------------:|:-------------------------:
-![](https://github.com/hamrel-cxu/Invertible-Graph-Neural-Network-iGNN/blob/main/Two-moon-illustration.gif)  |  ![](https://github.com/hamrel-cxu/Invertible-Graph-Neural-Network-iGNN/blob/main/Two-moon-illustration.gif)
+![](https://github.com/hamrel-cxu/Invertible-Graph-Neural-Network-iGNN/blob/main/Two-moon-illustration.gif)  |  ![](https://github.com/hamrel-cxu/Invertible-Graph-Neural-Network-iGNN/blob/main/Graph-illustration.gif)
