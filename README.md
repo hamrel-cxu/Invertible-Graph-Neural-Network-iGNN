@@ -1,10 +1,20 @@
 # Invertible Graph Neural Network iGNN
-> Implementation and experiments based on the paper "Invertible Neural Network for Graph Prediction". The current paper is under review by IEEE Journal on Selected Areas in Information Theory—Special Issue on Deep Learning Methods for Inverse Problems. 
+> Implementation and experiments based on the paper [Invertible Neural Network for Graph Prediction](https://arxiv.org/abs/2206.01163). The current paper is under review.
 
 > Please direct all implementation-related inquiries to Chen Xu @ cxu310@gatech.edu.
 
 > Citation:
 ```
+@misc{https://doi.org/10.48550/arxiv.2206.01163,
+  doi = {10.48550/ARXIV.2206.01163},
+  url = {https://arxiv.org/abs/2206.01163},
+  author = {Xu, Chen and Cheng, Xiuyuan and Xie, Yao},
+  keywords = {Machine Learning (stat.ML), Machine Learning (cs.LG), FOS: Computer and information sciences, FOS: Computer and information sciences},
+  title = {Invertible Neural Networks for Graph Prediction},
+  publisher = {arXiv},
+  year = {2022},
+  copyright = {Creative Commons Attribution 4.0 International}
+}
 
 ```
 <!-- ## Table of Contents
