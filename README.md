@@ -5,11 +5,17 @@
 
 > Citation:
 ```
-@inproceedings{Xu2022InvertibleNN,
-  title={Invertible Neural Networks for Graph Prediction},
-  author={Chen Xu and Xiuyuan Cheng and Yao Xie},
-  year={2022}
+@misc{https://doi.org/10.48550/arxiv.2206.01163,
+  doi = {10.48550/ARXIV.2206.01163},
+  url = {https://arxiv.org/abs/2206.01163},
+  author = {Xu, Chen and Cheng, Xiuyuan and Xie, Yao},
+  keywords = {Machine Learning (stat.ML), Machine Learning (cs.LG), FOS: Computer and information sciences, FOS: Computer and information sciences},
+  title = {Invertible Neural Networks for Graph Prediction},
+  publisher = {arXiv},
+  year = {2022},
+  copyright = {Creative Commons Attribution 4.0 International}
 }
+
 ```
 <!-- ## Table of Contents
 * [Full results](#full-results)
