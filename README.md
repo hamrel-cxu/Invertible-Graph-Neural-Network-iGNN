@@ -5,7 +5,7 @@
 
 > Citation:
 ```
-@misc{https://doi.org/10.48550/arxiv.2206.01163,
+@misc{xu2022ignn,
   doi = {10.48550/ARXIV.2206.01163},
   url = {https://arxiv.org/abs/2206.01163},
   author = {Xu, Chen and Cheng, Xiuyuan and Xie, Yao},
