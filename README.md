@@ -16,8 +16,8 @@
 ```
 
 - Please see [simulation.ipynb](https://github.com/hamrel-cxu/Invertible-Graph-Neural-Network-iGNN/blob/main/simulation.ipynb) regarding simulated results.
-- The movie below visualizes how iGNN transports original densities $X|Y$ to their corresponding $H|Y$. The top row plots the Wasserstein-2 penalty at each block, where larger values indicate more drastic amount of transportation by the block.
+- The movie below visualizes how iGNN transports original densities $X|Y$ of the three-moon dataset to their corresponding $H|Y$. The top row plots the Wasserstein-2 penalty at each block, where larger values indicate more drastic amount of transportation by the block.
 
-Three moons        
-:-------------------------:
-![](https://github.com/hamrel-cxu/Invertible-Graph-Neural-Network-iGNN/blob/main/Three_moon.mp4) 
+<p align="center">
+  <img src="https://github.com/hamrel-cxu/Invertible-Graph-Neural-Network-iGNN/blob/main/Three_moon.gif" width="350" height="450" />
+</p>
