@@ -1,7 +1,5 @@
 # Invertible Graph Neural Network iGNN
-> Implementation and experiments based on the paper [Invertible Neural Network for Graph Prediction](https://arxiv.org/abs/2206.01163). The current paper is under review.
-
-> Please direct all implementation-related inquiries to Chen Xu @ cxu310@gatech.edu.
+> Implementation and experiments based on the paper [Invertible Neural Network for Graph Prediction](https://arxiv.org/abs/2206.01163). 
 
 > Citation:
 ```
