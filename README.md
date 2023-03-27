@@ -3,11 +3,15 @@
 
 > Citation:
 ```
-@ARTICLE{xu2022iGNN,
+@ARTICLE{9950057,
   author={Xu, Chen and Cheng, Xiuyuan and Xie, Yao},
   journal={IEEE Journal on Selected Areas in Information Theory}, 
   title={Invertible Neural Networks for Graph Prediction}, 
-  year={2022}
+  year={2022},
+  volume={3},
+  number={3},
+  pages={454-467},
+  doi={10.1109/JSAIT.2022.3221864}}
 ```
 
 - Please see [example.ipynb](https://github.com/hamrel-cxu/Invertible-Graph-Neural-Network-iGNN/blob/main/example.ipynb) regarding how to use the method.
